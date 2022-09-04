@@ -1,4 +1,4 @@
-This is a webiste that contains my portfolio.
+This is a webiste that contains my portfolio..
 
 # Getting Started with Create React App
 
